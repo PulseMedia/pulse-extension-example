@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Categorie1">
+        <setting id="apiCall" type="text" label="Initalize ApiCall" default="Ping"/>
+	</category>
+</settings>
