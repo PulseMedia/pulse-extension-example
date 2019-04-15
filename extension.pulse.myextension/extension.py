@@ -31,7 +31,7 @@ class Extension:
         #pulseapi(initApiCall)
 
     def onPlay(self, url): #Will be called if Pulse try to start playing an Media which contains the extension Badge ([myextension])
-        pass
+        return url
 
 
     # FOR MORE INFORMATION VISIT: https://www.pulse-player.tv/extension
